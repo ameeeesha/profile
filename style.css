@@ -59,6 +59,10 @@ h2 {
   text-align: center;
 }
 
+.img-circle {
+  border-radius: 70%;
+}
+
 a {
   color: blue;
   text-decoration: none;
